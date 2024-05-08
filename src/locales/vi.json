@@ -1,0 +1,112 @@
+{
+  "locale": "VI",
+  "footer": {
+    "copyRight": "Copyright © 2024 Mehub. All rights reserved.",
+    "terms": "Điều khoản dịch vụ",
+    "policy": "Chính sách bảo mật"
+  },
+  "auth": {
+    "policy": "Với việc tham gia, bạn đã đồng ý với <a href={term} target='_blank' class='w-fit underline underline-offset-2 font-medium cursor-pointer text-base-grey-9 dark:text-mehub-white hover:!text-mehub-cerulean transition-all'>Điều khoản dịch vụ</a> và <a href={policy} target='_blank' class='w-fit underline underline-offset-2 font-medium cursor-pointer text-base-grey-9 dark:text-mehub-white hover:!text-mehub-cerulean transition-all'>Chính sách quyền riêng tư</a> của chúng tôi",
+    "register": {
+      "start": {
+        "title": "Bắt đầu miễn phí",
+        "content": "Nền tảng công nghệ giúp Creators kinh doanh và tạo ra thu nhập bền vững",
+        "email": "Tiếp tục với Email",
+        "phone": "Tiếp tục với Số điện thoại"
+      },
+      "comingSoon": {
+        "title": "Sắp ra mắt",
+        "firstLineOfDescription": "Hãy đón chờ",
+        "secondLineOfDescription": "điều tuyệt vời",
+        "thirdLineOfDescription": "với",
+        "mehub": "Mehub",
+        "days": "Ngày",
+        "hours": "Giờ",
+        "minutes": "Phút",
+        "seconds": "Giây",
+        "emailAddress": "Nhập email",
+        "yourName": "Tên của bạn",
+        "notice1": "Nhận thông báo",
+        "notice2": "khi chúng tôi bắt đầu hoạt động",
+        "button": "Thông báo cho tôi",
+        "message": "Cám ơn sự quan tâm của bạn! Chúng tôi sẽ thông báo cho bạn qua email khi chúng tôi bắt đầu hoạt động"
+      },
+      "finish": {
+        "title": "Đã xác thực thành công!",
+        "content": "Ghi dấu ấn của riêng bạn bằng việc sở hữu Hub, tùy biến giao diện trang theo phong cách của mình một cách dễ dàng.",
+        "buttonCreate": "Tạo Hub mới ngay",
+        "buttonQuestion": "Hub là gì?"
+      },
+      "email": {
+        "title1": "Tạo tài khoản mới",
+        "content1": "Nền tảng công nghệ giúp Creators kinh doanh và tạo ra thu nhập bền vững",
+        "backToPhone": "<- Đăng ký bằng số điện thoại",
+        "backToLogin": "<- Đăng nhập",
+        "email": "Email",
+        "password": "Mật khẩu",
+        "buttonRegister": "Đăng ký",
+        "buttonConfirm": "Xác nhận",
+        "validPass": "Mật khẩu phải chứa ít nhất:",
+        "validPass1": "6 ký tự",
+        "validPass2": "1 chữ cái và 1 số",
+        "validPass3": "1 ký tự đặc biệt (Ví dụ: # ? ! {'$'} & {'@'})",
+        "title2": "Xác nhận Email",
+        "content2": "Để tiếp tục, hãy xác nhận địa chỉ email bạn đã dùng đăng ký tài khoản",
+        "enterCode": "Nhập code đã được gửi về mail của bạn:",
+        "wrongCode": "Không nhận được mã?",
+        "resend": "Gửi lại",
+        "errorCode": "Mã xác minh không chính xác",
+        "errorExists": "Tài khoản đã tồn tại, bạn vui lòng đăng ký bằng tài khoản khác"
+      },
+      "phone": {
+        "title1": "Tạo tài khoản mới",
+        "content1": "Nền tảng công nghệ giúp Creators kinh doanh và tạo ra thu nhập bền vững",
+        "backToEmail": "<- Đăng ký bằng email",
+        "phone": "Số điện thoại",
+        "password": "Mật khẩu",
+        "buttonCode": "Nhận mã OTP",
+        "enterCode": "Nhập OTP đã được gửi về số điện thoại của bạn:",
+        "buttonConfirm": "Xác nhận",
+        "errorPhone": "Không phải số điện thoại hợp lệ",
+        "errorCode": "Mã OTP không chính xác",
+        "title2": "Tạo mật khẩu",
+        "content2": "Tạo mật khẩu cho tài khoản của bạn",
+        "after": "Để sau"
+      }
+    },
+    "login": {
+      "welcome": "Chào mừng đến với Mehub 🎉",
+      "welcome_": "Mehub is the first integrated digital​ monetization platform supporting creators to create their brands, sell exclusive merch products, and take care of their fans in Vietnam.",
+      "title": "Đăng nhập",
+      "email": "Email",
+      "phone": "Số điện thoại",
+      "password": "Mật khẩu",
+      "buttonLogin": "Đăng nhập",
+      "buttonContinue": "Tiếp tục",
+      "forgotPassword": "Quên mật khẩu?",
+      "rememberMe": "Ghi nhớ đăng nhập",
+      "dontHaveAccount": "Bạn chưa có tài khoản?",
+      "register": "Đăng ký",
+      "enterOtp": "Nhập OTP đã được gửi về số điện thoại của bạn:",
+      "or": "Hoặc",
+      "loginWidthPassword": "Đăng nhập bằng mật khẩu",
+      "loginError": "Tên tài khoản hoặc mật khẩu không chính xác, vui lòng xem lại!",
+      "continueWith": "Continue with {social}"
+    },
+    "forgotPassword": {
+      "title": "Quên mật khẩu?",
+      "content": "Nhập email bạn dùng đăng ký để đặt lại mật khẩu của bạn.",
+      "buttonContinue": "Tiếp tục",
+      "buttonConfirm": "Xác nhận",
+      "email": "Email",
+      "backToLogin": "Quay lại đăng nhập",
+      "enterCodeEmail": "Nhập code dùng đặt lại mật khẩu đã được gửi về email <span class=mehub-forgotpass-account-name></span> của bạn:",
+      "enterCodePhone": "Nhập code dùng đặt lại mật khẩu đã được gửi về số điện thoại <span class=mehub-forgotpass-account-name></span> của bạn:",
+      "title2": "Đặt lại mật khẩu",
+      "content2": "Tạo mật khẩu mới cho tài khoản của bạn",
+      "newPassword": "Mật khẩu mới",
+      "resend": "Gửi lại",
+      "success": "Thay đổi mật khẩu thành công!"
+    }
+  }
+}

@@ -7,7 +7,14 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    RouterLink: typeof import('vue-router')['RouterLink']
-    RouterView: typeof import('vue-router')['RouterView']
+    CButton: typeof import('./components/c-button.vue')['default']
+    CInput: typeof import('./components/c-input.vue')['default']
+    DefaultLayout: typeof import('./layouts/default-layout.vue')['default']
+    ElCheckbox: typeof import('element-plus/es')['ElCheckbox']
+    ElIcon: typeof import('element-plus/es')['ElIcon']
+    ElTooltip: typeof import('element-plus/es')['ElTooltip']
+    IEpArrowDown: typeof import('~icons/ep/arrow-down')['default']
+    IEpCheck: typeof import('~icons/ep/check')['default']
+    SwitchLanguageButton: typeof import('./components/switch-language-button.vue')['default']
   }
 }

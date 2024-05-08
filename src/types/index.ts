@@ -4,6 +4,7 @@ export interface EnvUrl {
   login: string
   loginAction: string
   registrationAction: string
+  resourcesPath: string
 }
 
 export interface EnvTitle {

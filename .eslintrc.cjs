@@ -6,12 +6,7 @@ module.exports = {
     browser: true,
     node: true,
   },
-  extends: [
-    'plugin:vue/vue3-recommended',
-    '@vue/eslint-config-typescript/recommended',
-    '@vue/eslint-config-prettier',
-    'plugin:prettier/recommended',
-  ],
+  extends: ['plugin:vue/vue3-recommended', '@vue/eslint-config-typescript', 'plugin:prettier/recommended'],
   plugins: ['prettier'],
   rules: {
     '@typescript-eslint/no-unused-vars': 'error',

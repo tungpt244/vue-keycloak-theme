@@ -1,13 +1,13 @@
 export const MOCK_CONTEXT = {
   urls: {
     loginResetCredentials:
-      '/realms/test-theme/login-actions/reset-credentials?client_id=account-console&amp;tab_id=dtIwwCO_Jkk',
-    login: '/realms/test-theme/login-actions/authenticate?client_id=account-console&amp;tab_id=dtIwwCO_Jkk',
-    registration: '/realms/test-theme/login-actions/registration?client_id=account-console&amp;tab_id=dtIwwCO_Jkk',
+      '/realms/test-theme/login-actions/reset-credentials?client_id=account-console&amp;tab_id=wJlQCVfKa0g',
+    login: '/realms/test-theme/login-actions/authenticate?client_id=account-console&amp;tab_id=wJlQCVfKa0g',
+    registration: '/realms/test-theme/login-actions/registration?client_id=account-console&amp;tab_id=wJlQCVfKa0g',
     loginAction:
-      'http://localhost:8080/realms/test-theme/login-actions/authenticate?session_code=4g0b_PzpVHGza0I5XjDchhiO69hZ3OonarqtiyC6uqo&amp;execution=19763e57-0942-4647-8cfc-cce1eae957e6&amp;client_id=account-console&amp;tab_id=dtIwwCO_Jkk',
+      'http://localhost:8080/realms/test-theme/login-actions/authenticate?session_code=pLuocJ-BiExj0kDEfkgHnHgbIazLz7x2YpB3e3_meDA&amp;execution=19763e57-0942-4647-8cfc-cce1eae957e6&amp;client_id=account-console&amp;tab_id=wJlQCVfKa0g',
     registrationAction:
-      'http://localhost:8080/realms/test-theme/login-actions/authenticate?session_code=4g0b_PzpVHGza0I5XjDchhiO69hZ3OonarqtiyC6uqo&amp;execution=19763e57-0942-4647-8cfc-cce1eae957e6&amp;client_id=account-console&amp;tab_id=dtIwwCO_Jkk',
+      'http://localhost:8080/realms/test-theme/login-actions/authenticate?session_code=pLuocJ-BiExj0kDEfkgHnHgbIazLz7x2YpB3e3_meDA&amp;execution=19763e57-0942-4647-8cfc-cce1eae957e6&amp;client_id=account-console&amp;tab_id=wJlQCVfKa0g',
     resourcesPath: '/resources/ithev/login/test',
   },
   titles: {
@@ -80,7 +80,7 @@ export const MOCK_CONTEXT = {
       alias: 'google',
       displayName: 'Google',
       loginUrl:
-        '/realms/test-theme/broker/google/login?client_id=account-console&amp;tab_id=dtIwwCO_Jkk&amp;session_code=4g0b_PzpVHGza0I5XjDchhiO69hZ3OonarqtiyC6uqo',
+        '/realms/test-theme/broker/google/login?client_id=account-console&amp;tab_id=wJlQCVfKa0g&amp;session_code=pLuocJ-BiExj0kDEfkgHnHgbIazLz7x2YpB3e3_meDA',
     },
   ],
 }

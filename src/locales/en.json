@@ -1,0 +1,111 @@
+{
+  "locale": "EN",
+  "footer": {
+    "copyRight": "Copyright © 2024 Mehub. All rights reserved.",
+    "terms": "Terms and Conditions",
+    "policy": "Privacy Policy"
+  },
+  "auth": {
+    "policy": "By proceeding, you agree to the <a href={term} target='_blank' class='w-fit underline underline-offset-2 font-medium cursor-pointer text-base-grey-9 dark:text-mehub-white hover:!text-mehub-cerulean transition-all'>Terms and Conditions</a> and <a href={policy} target='_blank' class='w-fit underline underline-offset-2 font-medium cursor-pointer text-base-grey-9 dark:text-mehub-white hover:!text-mehub-cerulean transition-all'>Privacy Policy</a>",
+    "register": {
+      "start": {
+        "title": "Start for free",
+        "content": "A digital platform allows Creators to make sustainable income.",
+        "email": "Continue with Email",
+        "phone": "Continue with Phone number"
+      },
+      "comingSoon": {
+        "title": "Coming Soon",
+        "firstLineOfDescription": "Stay tuned for",
+        "secondLineOfDescription": "amazing things",
+        "thirdLineOfDescription": "with",
+        "mehub": "Mehub",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds",
+        "emailAddress": "Email address",
+        "yourName": "Your name",
+        "notice1": "Get notified",
+        "notice2": "when we launch",
+        "button": "Notify me",
+        "message": "Thank you for your interest! We'll keep you updated via email when we launch"
+      },
+      "finish": {
+        "title": "Successfully verified!",
+        "content": "Make your own mark by owning the Hub, customize the page interface in your style easily.",
+        "buttonCreate": "Create new Hub now",
+        "buttonQuestion": "What is Hub?"
+      },
+      "email": {
+        "title1": "Create new account",
+        "content1": "Technology platform helps Creators do business and generate sustainable income",
+        "backToPhone": "<- Register with Phone number",
+        "backToLogin": "<- Back to Login",
+        "email": "Email",
+        "password": "Password",
+        "buttonRegister": "Register",
+        "buttonConfirm": "Confirm",
+        "validPass": "Password must have:",
+        "validPass1": "6 characters",
+        "validPass2": "1 letter and 1 number",
+        "validPass3": "1 special character (Ví dụ: # ? ! {'$'} & {'@'})",
+        "title2": "Verify Email",
+        "content2": "To continue, confirm the email address you used to sign up for the account",
+        "enterCode": "Enter the code that has been sent to your mail:",
+        "wrongCode": "Didn't receive the code?",
+        "resend": "Resend",
+        "errorCode": "Incorrect verification code"
+      },
+      "phone": {
+        "title1": "Create new account",
+        "content1": "Technology platform helps Creators do business and generate sustainable income",
+        "backToEmail": "<- Register width Email",
+        "phone": "Phone Number",
+        "password": "Password",
+        "buttonCode": "Nhận mã OTP",
+        "enterCode": "Enter the OTP that has been sent to your phone number:",
+        "buttonConfirm": "Confirm",
+        "errorPhone": "Không phải số điện thoại hợp lệ",
+        "errorCode": "Mã OTP không chính xác",
+        "title2": "Tạo mật khẩu",
+        "content2": "Tạo mật khẩu cho tài khoản của bạn",
+        "after": "Để sau"
+      }
+    },
+    "login": {
+      "welcome": "Welcome To Mehub 🎉",
+      "welcome_": "Mehub is the first integrated digital​ monetization platform supporting creators to create their brands, sell exclusive merch products, and take care of their fans in Vietnam.",
+      "title": "Login",
+      "email": "Email",
+      "phone": "Phone Number",
+      "password": "Password",
+      "buttonLogin": "Sign in",
+      "buttonContinue": "Continue",
+      "forgotPassword": "Forgot password?",
+      "rememberMe": "Remember me",
+      "dontHaveAccount": "Don't have an account?",
+      "register": "Sign up",
+      "enterOtp": "Enter the OTP that has been sent to your phone number:",
+      "or": "Or",
+      "loginWidthPassword": "Login with password",
+      "loginError": "Incorrect username or password, please try again!",
+      "continueWith": "Continue with {social}"
+    },
+    "forgotPassword": {
+      "title": "Forgot password?",
+      "content": "Enter the email you used to reset your password.",
+      "buttonContinue": "Continue",
+      "buttonConfirm": "Confirm",
+      "email": "Email",
+      "backToLogin": "Back to login",
+      "enterCodeEmail": "Enter the code to reset the password that was sent to your <span class=mehub-forgotpass-account-name></span> email:",
+      "enterCodePhone": "Enter the code to reset the password that was sent to your <span class=mehub-forgotpass-account-name></span> phone number:",
+      "title2": "Reset password",
+      "content2": "Create new password for your account",
+      "newPassword": "New password",
+      "resend": "Resend",
+      "success": "Change password successfully!"
+    }
+  }
+}

@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .is-link {
+    @apply text-sm  underline underline-offset-2 hover:cursor-pointer hover:text-primary hover:opacity-70;
+  }
+}
